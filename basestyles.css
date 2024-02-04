@@ -1,0 +1,78 @@
+body {
+    background-color: lightcoral;
+  }
+  h1 {
+    color: black;
+  }
+  p {
+    color: black;
+    
+  }
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 8px;
+    text-align: center;
+    display: block;
+  }
+  .yes {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.25s;
+    display: block;
+  }
+  .yesupdate {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.25s;
+    display: block;
+  }
+  .yes:hover {
+    background-color: #0de696;
+  }
+  .yesupdate:hover {
+    background-color: #0de696;
+  }
+  .no {
+    background-color: #c03e3e; /* red */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.25s;
+    display: block;
+  }
+  .no:hover {
+    background-color: #e60d0d;
+  }
+  .button-container {
+    display:flex;
+    justify-content:center;
+  }
+  .ily {
+    background-color: pink; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.25s;
+    display: block;
+  }
+  .ily:hover {
+    background-color: #81054a;
+    color:white;
+  }
