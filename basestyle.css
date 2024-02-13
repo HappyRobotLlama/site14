@@ -15,6 +15,13 @@ body {
     text-align: center;
     display: block;
   }
+  .catcenter {
+    margin: auto;
+    width: 50%;
+    padding: 0px;
+    text-align: center;
+    display: block;
+  }
   .yes {
     background-color: #04AA6D; /* Green */
     border: none;
@@ -75,4 +82,59 @@ body {
   .ily:hover {
     background-color: #81054a;
     color:white;
+  }
+  .yesa {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 23px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    transition-duration: 0.25s;
+    display: block;
+  }
+  .yesas {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 31px 48px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 32px;
+    transition-duration: 0.25s;
+    display: block;
+  }
+  .yesasd {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 39px 56px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    transition-duration: 0.25s;
+    display: block;
+  }
+  .yesasdf {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 47px 64px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 48px;
+    transition-duration: 0.25s;
+    display: block;
+  }
+  .yesasdfg {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 63px 80px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 64px;
+    transition-duration: 0.25s;
+    display: block;
   }
